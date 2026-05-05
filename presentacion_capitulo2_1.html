@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portada - Capítulo 2</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Oswald&family=Lato&display=swap');
+    .font-oswald { font-family: 'Oswald', 'Arial Narrow', sans-serif; }
+    .font-lato { font-family: 'Lato', 'Corbel', sans-serif; }
+  </style>
+</head>
+<body class="m-0 p-0 overflow-hidden">
+  <div class="relative overflow-hidden w-[1920px] h-[1080px] grid grid-cols-[2fr_3fr]" style="background-color: #1B2E1B;">
+    <!-- Left Column - Text Content -->
+    <div class="flex flex-col justify-center px-16 py-12" style="background-color: #1B2E1B;">
+      <!-- Chapter Label -->
+      <div class="flex-none mb-8">
+        <p class="font-oswald uppercase tracking-widest text-3xl" style="color: #15803D;">Capítulo 2</p>
+        <p class="font-lato text-3xl mt-2" style="color: #6B8A6B;">Tesis de Grado — UPB</p>
+        <div class="w-24 h-1 mt-4" style="background-color: #15803D;"></div>
+      </div>
+      
+      <!-- Main Title -->
+      <div class="flex-1 flex flex-col justify-center">
+        <h1 class="font-oswald font-bold text-7xl leading-tight text-white">
+          <span style="color: #15803D;">Diagnóstico</span> del marco<br>
+          regulatorio colombiano:
+        </h1>
+        <h2 class="font-oswald font-bold text-6xl leading-tight text-white mt-4">
+          Barreras normativas,<br>
+          concentración e incentivos
+        </h2>
+      </div>
+      
+      <!-- Author & Institution -->
+      <div class="flex-none mt-8">
+        <div class="w-full h-px mb-6" style="background-color: #15803D;"></div>
+        <p class="font-lato font-bold text-4xl text-white">Santiago Garces Chavarria</p>
+        <p class="font-lato text-3xl mt-3" style="color: #6B8A6B;">Universidad Pontificia Bolivariana</p>
+        <p class="font-lato text-3xl" style="color: #6B8A6B;">Facultad de Derecho · 2026</p>
+      </div>
+    </div>
+    
+    <!-- Right Column - Cover Image -->
+    <div class="flex-1 min-w-0 overflow-hidden">
+      <img src="https://cdn.abacus.ai/images/08718dd7-df09-4274-968e-a0a39c8720ce.jpg" alt="Financial Network Visualization" class="w-full h-full object-cover">
+    </div>
+  </div>
+  <script>lucide.createIcons();</script>
+</body>
+</html>

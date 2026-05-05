@@ -1,0 +1,101 @@
+Case_ID,Lead_ID,Case_Type,Paralegal_Assigned,Status,Open_Date,Settled_Date,Gross_Settlement_Amount,Case_Notes
+C-5000,L-1000,Medical Malpractice,David Walsh,Open,2023-10-17,,0.0,Slipped on wet floor in supermarket. Sprained ankle and bruised tailbone.
+C-5001,L-1001,Medical Malpractice,Mike Torres,Settled,2022-04-25,2023-06-10,120639.48,"Tripped over uneven sidewalk. Scraped knee, minor injuries, likely low payout."
+C-5002,L-1002,Car Accident,Sarah Jenkins,Settled,2022-01-26,2023-04-17,351029.18,Slipped on wet floor in supermarket. Sprained ankle and bruised tailbone.
+C-5003,L-1003,Slip & Fall,David Walsh,Settled,2022-10-09,2023-12-23,276179.05,T-boned at intersection. Multiple broken ribs and internal bleeding.
+C-5004,L-1004,Slip & Fall,Mike Torres,Settled,2022-09-08,2023-02-06,361358.84,"Client hit by truck at intersection, fractured femur, surgery required, expected long recovery."
+C-5005,L-1005,Car Accident,Jessica Lin,Open,2022-08-17,,0.0,"Client hit by truck at intersection, fractured femur, surgery required, expected long recovery."
+C-5006,L-1006,Slip & Fall,David Walsh,Settled,2022-05-23,2023-06-06,355446.38,"Misdiagnosed fracture by ER doctor, led to permanent nerve damage."
+C-5007,L-1007,Slip & Fall,Sarah Jenkins,Settled,2022-04-15,2023-01-07,246744.18,Minor fender bender. Client complains of back pain but no visible injuries.
+C-5008,L-1008,Car Accident,Jessica Lin,Open,2023-11-24,,0.0,Dog bite incident. Severe lacerations on right arm. Requires reconstructive surgery.
+C-5009,L-1009,Slip & Fall,Mike Torres,Settled,2023-07-13,2024-09-13,176198.33,Rear-ended at stoplight. Whiplash and mild concussion. Physical therapy ongoing.
+C-5010,L-1010,Car Accident,David Walsh,Settled,2022-03-31,2023-03-15,296681.32,T-boned at intersection. Multiple broken ribs and internal bleeding.
+C-5011,L-1011,Car Accident,Mike Torres,Open,2023-08-28,,0.0,"Tripped over uneven sidewalk. Scraped knee, minor injuries, likely low payout."
+C-5012,L-1012,Car Accident,David Walsh,Settled,2023-03-09,2023-06-13,384565.4,"Client hit by truck at intersection, fractured femur, surgery required, expected long recovery."
+C-5013,L-1013,Slip & Fall,Sarah Jenkins,Settled,2022-02-02,2023-01-08,60909.41,Rear-ended at stoplight. Whiplash and mild concussion. Physical therapy ongoing.
+C-5014,L-1014,Slip & Fall,David Walsh,Open,2022-01-31,,0.0,Minor fender bender. Client complains of back pain but no visible injuries.
+C-5015,L-1015,Car Accident,Sarah Jenkins,Open,2022-04-06,,0.0,"Misdiagnosed fracture by ER doctor, led to permanent nerve damage."
+C-5016,L-1016,Medical Malpractice,Sarah Jenkins,Settled,2022-08-12,2023-05-14,291479.52,Minor fender bender. Client complains of back pain but no visible injuries.
+C-5017,L-1017,Medical Malpractice,Mike Torres,Open,2022-08-27,,0.0,Minor fender bender. Client complains of back pain but no visible injuries.
+C-5018,L-1018,Slip & Fall,Jessica Lin,Open,2023-06-02,,0.0,T-boned at intersection. Multiple broken ribs and internal bleeding.
+C-5019,L-1019,Medical Malpractice,David Walsh,Settled,2023-09-09,2024-07-30,322679.26,"Misdiagnosed fracture by ER doctor, led to permanent nerve damage."
+C-5020,L-1020,Slip & Fall,Jessica Lin,Settled,2022-01-28,2022-12-06,91619.58,"Tripped over uneven sidewalk. Scraped knee, minor injuries, likely low payout."
+C-5021,L-1021,Medical Malpractice,David Walsh,Settled,2023-07-29,2024-07-20,434981.07,Slipped on wet floor in supermarket. Sprained ankle and bruised tailbone.
+C-5022,L-1022,Car Accident,Jessica Lin,Open,2022-07-23,,0.0,Minor fender bender. Client complains of back pain but no visible injuries.
+C-5023,L-1023,Medical Malpractice,Sarah Jenkins,Settled,2023-10-28,2024-06-12,282921.87,"Misdiagnosed fracture by ER doctor, led to permanent nerve damage."
+C-5024,L-1024,Car Accident,Mike Torres,Settled,2023-07-13,2024-07-12,351969.03,Minor fender bender. Client complains of back pain but no visible injuries.
+C-5025,L-1025,Medical Malpractice,David Walsh,Settled,2023-03-06,2024-01-28,204474.9,"Client hit by truck at intersection, fractured femur, surgery required, expected long recovery."
+C-5026,L-1026,Medical Malpractice,David Walsh,Dropped,2022-08-14,,0.0,"Tripped over uneven sidewalk. Scraped knee, minor injuries, likely low payout."
+C-5027,L-1027,Car Accident,Jessica Lin,Open,2023-04-05,,0.0,"Client hit by truck at intersection, fractured femur, surgery required, expected long recovery."
+C-5028,L-1028,Car Accident,Jessica Lin,Settled,2023-08-27,2024-09-23,131752.06,T-boned at intersection. Multiple broken ribs and internal bleeding.
+C-5029,L-1029,Car Accident,Sarah Jenkins,Settled,2022-10-12,2023-05-15,376367.99,Dog bite incident. Severe lacerations on right arm. Requires reconstructive surgery.
+C-5030,L-1030,Slip & Fall,David Walsh,Settled,2022-01-07,2022-05-21,136333.79,Slipped on wet floor in supermarket. Sprained ankle and bruised tailbone.
+C-5031,L-1031,Medical Malpractice,Jessica Lin,Dropped,2022-06-13,,0.0,"Client hit by truck at intersection, fractured femur, surgery required, expected long recovery."
+C-5032,L-1032,Medical Malpractice,Jessica Lin,Open,2023-03-09,,0.0,Rear-ended at stoplight. Whiplash and mild concussion. Physical therapy ongoing.
+C-5033,L-1033,Slip & Fall,Mike Torres,Settled,2022-12-15,2023-10-31,121080.6,Minor fender bender. Client complains of back pain but no visible injuries.
+C-5034,L-1034,Car Accident,Jessica Lin,Settled,2022-10-12,2023-09-04,262884.6,Rear-ended at stoplight. Whiplash and mild concussion. Physical therapy ongoing.
+C-5035,L-1035,Medical Malpractice,Jessica Lin,Settled,2022-06-09,2023-08-15,179860.35,"Misdiagnosed fracture by ER doctor, led to permanent nerve damage."
+C-5036,L-1036,Car Accident,Sarah Jenkins,Settled,2022-08-09,2022-11-21,230023.33,Dog bite incident. Severe lacerations on right arm. Requires reconstructive surgery.
+C-5037,L-1037,Slip & Fall,Jessica Lin,Settled,2022-12-11,2023-08-24,94100.34,"Misdiagnosed fracture by ER doctor, led to permanent nerve damage."
+C-5038,L-1038,Medical Malpractice,Mike Torres,Settled,2022-04-15,2022-10-30,169348.86,"Client hit by truck at intersection, fractured femur, surgery required, expected long recovery."
+C-5039,L-1039,Car Accident,Jessica Lin,Settled,2022-04-05,2022-11-13,163047.4,Slipped on wet floor in supermarket. Sprained ankle and bruised tailbone.
+C-5040,L-1040,Slip & Fall,Sarah Jenkins,Settled,2023-01-25,2024-02-24,320014.93,Slipped on wet floor in supermarket. Sprained ankle and bruised tailbone.
+C-5041,L-1041,Car Accident,Jessica Lin,Open,2022-04-10,,0.0,T-boned at intersection. Multiple broken ribs and internal bleeding.
+C-5042,L-1042,Medical Malpractice,Mike Torres,Settled,2023-01-03,2023-08-22,256769.1,"Client hit by truck at intersection, fractured femur, surgery required, expected long recovery."
+C-5043,L-1043,Car Accident,David Walsh,Settled,2022-12-19,2023-12-08,427407.22,Rear-ended at stoplight. Whiplash and mild concussion. Physical therapy ongoing.
+C-5044,L-1044,Slip & Fall,Mike Torres,Settled,2023-09-11,2024-01-22,119989.88,Slipped on wet floor in supermarket. Sprained ankle and bruised tailbone.
+C-5045,L-1045,Medical Malpractice,Sarah Jenkins,Settled,2022-09-28,2023-07-23,227531.36,T-boned at intersection. Multiple broken ribs and internal bleeding.
+C-5046,L-1046,Slip & Fall,David Walsh,Settled,2022-02-14,2022-09-15,315415.06,Minor fender bender. Client complains of back pain but no visible injuries.
+C-5047,L-1047,Car Accident,Jessica Lin,Settled,2023-04-16,2024-06-09,324651.45,T-boned at intersection. Multiple broken ribs and internal bleeding.
+C-5048,L-1048,Medical Malpractice,Mike Torres,Dropped,2023-07-04,,0.0,Rear-ended at stoplight. Whiplash and mild concussion. Physical therapy ongoing.
+C-5049,L-1049,Medical Malpractice,Mike Torres,Dropped,2022-05-08,,0.0,"Client hit by truck at intersection, fractured femur, surgery required, expected long recovery."
+C-5050,L-1050,Car Accident,Jessica Lin,Settled,2023-01-23,2023-12-08,359925.8,Rear-ended at stoplight. Whiplash and mild concussion. Physical therapy ongoing.
+C-5051,L-1051,Car Accident,Jessica Lin,Dropped,2022-03-22,,0.0,Rear-ended at stoplight. Whiplash and mild concussion. Physical therapy ongoing.
+C-5052,L-1052,Slip & Fall,David Walsh,Settled,2023-07-20,2023-12-04,142992.48,Slipped on wet floor in supermarket. Sprained ankle and bruised tailbone.
+C-5053,L-1053,Slip & Fall,David Walsh,Settled,2022-10-28,2023-08-21,315927.41,Rear-ended at stoplight. Whiplash and mild concussion. Physical therapy ongoing.
+C-5054,L-1054,Slip & Fall,Jessica Lin,Open,2023-10-06,,0.0,"Client hit by truck at intersection, fractured femur, surgery required, expected long recovery."
+C-5055,L-1055,Car Accident,Jessica Lin,Settled,2023-09-26,2024-05-29,303822.61,T-boned at intersection. Multiple broken ribs and internal bleeding.
+C-5056,L-1056,Slip & Fall,Mike Torres,Settled,2023-01-06,2023-10-11,220868.31,Minor fender bender. Client complains of back pain but no visible injuries.
+C-5057,L-1057,Medical Malpractice,Jessica Lin,Open,2023-08-15,,0.0,T-boned at intersection. Multiple broken ribs and internal bleeding.
+C-5058,L-1058,Medical Malpractice,Jessica Lin,Open,2022-07-16,,0.0,"Tripped over uneven sidewalk. Scraped knee, minor injuries, likely low payout."
+C-5059,L-1059,Car Accident,Sarah Jenkins,Settled,2022-03-13,2023-03-09,164534.47,"Misdiagnosed fracture by ER doctor, led to permanent nerve damage."
+C-5060,L-1060,Slip & Fall,David Walsh,Settled,2022-02-16,2023-02-22,158894.21,"Misdiagnosed fracture by ER doctor, led to permanent nerve damage."
+C-5061,L-1061,Medical Malpractice,Sarah Jenkins,Settled,2023-11-09,2025-01-31,212379.19,Slipped on wet floor in supermarket. Sprained ankle and bruised tailbone.
+C-5062,L-1062,Medical Malpractice,Mike Torres,Settled,2022-08-22,2023-04-25,124360.6,"Misdiagnosed fracture by ER doctor, led to permanent nerve damage."
+C-5063,L-1063,Slip & Fall,David Walsh,Open,2022-10-24,,0.0,Slipped on wet floor in supermarket. Sprained ankle and bruised tailbone.
+C-5064,L-1064,Slip & Fall,Sarah Jenkins,Dropped,2022-03-23,,0.0,Minor fender bender. Client complains of back pain but no visible injuries.
+C-5065,L-1065,Medical Malpractice,Sarah Jenkins,Settled,2022-08-27,2023-01-25,328758.68,"Misdiagnosed fracture by ER doctor, led to permanent nerve damage."
+C-5066,L-1066,Medical Malpractice,David Walsh,Settled,2022-04-14,2022-12-21,67006.31,Minor fender bender. Client complains of back pain but no visible injuries.
+C-5067,L-1067,Medical Malpractice,Jessica Lin,Settled,2023-01-25,2024-01-24,428631.74,"Tripped over uneven sidewalk. Scraped knee, minor injuries, likely low payout."
+C-5068,L-1068,Medical Malpractice,David Walsh,Settled,2022-10-12,2023-12-29,95540.18,Dog bite incident. Severe lacerations on right arm. Requires reconstructive surgery.
+C-5069,L-1069,Car Accident,Mike Torres,Open,2023-04-10,,0.0,Minor fender bender. Client complains of back pain but no visible injuries.
+C-5070,L-1070,Car Accident,David Walsh,Dropped,2023-10-13,,0.0,"Client hit by truck at intersection, fractured femur, surgery required, expected long recovery."
+C-5071,L-1071,Medical Malpractice,Jessica Lin,Open,2023-01-09,,0.0,Rear-ended at stoplight. Whiplash and mild concussion. Physical therapy ongoing.
+C-5072,L-1072,Car Accident,Jessica Lin,Open,2022-06-16,,0.0,Dog bite incident. Severe lacerations on right arm. Requires reconstructive surgery.
+C-5073,L-1073,Slip & Fall,Mike Torres,Dropped,2023-01-15,,0.0,T-boned at intersection. Multiple broken ribs and internal bleeding.
+C-5074,L-1074,Car Accident,Mike Torres,Open,2022-12-30,,0.0,Minor fender bender. Client complains of back pain but no visible injuries.
+C-5075,L-1075,Medical Malpractice,Sarah Jenkins,Open,2022-08-03,,0.0,"Client hit by truck at intersection, fractured femur, surgery required, expected long recovery."
+C-5076,L-1076,Medical Malpractice,Jessica Lin,Open,2023-11-18,,0.0,T-boned at intersection. Multiple broken ribs and internal bleeding.
+C-5077,L-1077,Slip & Fall,David Walsh,Settled,2022-10-01,2023-04-19,336293.02,T-boned at intersection. Multiple broken ribs and internal bleeding.
+C-5078,L-1078,Medical Malpractice,David Walsh,Settled,2023-12-01,2024-07-19,330194.48,Minor fender bender. Client complains of back pain but no visible injuries.
+C-5079,L-1079,Medical Malpractice,David Walsh,Open,2023-10-26,,0.0,T-boned at intersection. Multiple broken ribs and internal bleeding.
+C-5080,L-1080,Car Accident,David Walsh,Settled,2022-03-15,2023-03-08,274603.97,Rear-ended at stoplight. Whiplash and mild concussion. Physical therapy ongoing.
+C-5081,L-1081,Car Accident,Sarah Jenkins,Open,2023-09-16,,0.0,Minor fender bender. Client complains of back pain but no visible injuries.
+C-5082,L-1082,Medical Malpractice,David Walsh,Dropped,2023-10-13,,0.0,"Misdiagnosed fracture by ER doctor, led to permanent nerve damage."
+C-5083,L-1083,Slip & Fall,Jessica Lin,Settled,2022-06-25,2022-11-13,377193.34,Slipped on wet floor in supermarket. Sprained ankle and bruised tailbone.
+C-5084,L-1084,Car Accident,Mike Torres,Open,2023-07-01,,0.0,"Tripped over uneven sidewalk. Scraped knee, minor injuries, likely low payout."
+C-5085,L-1085,Slip & Fall,Jessica Lin,Settled,2022-09-08,2023-05-07,113955.18,"Misdiagnosed fracture by ER doctor, led to permanent nerve damage."
+C-5086,L-1086,Car Accident,David Walsh,Settled,2022-06-17,2022-12-15,146486.4,T-boned at intersection. Multiple broken ribs and internal bleeding.
+C-5087,L-1087,Medical Malpractice,Sarah Jenkins,Dropped,2023-04-19,,0.0,"Tripped over uneven sidewalk. Scraped knee, minor injuries, likely low payout."
+C-5088,L-1088,Slip & Fall,Sarah Jenkins,Settled,2023-01-24,2024-01-22,70063.59,"Misdiagnosed fracture by ER doctor, led to permanent nerve damage."
+C-5089,L-1089,Medical Malpractice,Mike Torres,Settled,2022-10-04,2023-01-25,438818.3,"Misdiagnosed fracture by ER doctor, led to permanent nerve damage."
+C-5090,L-1090,Medical Malpractice,Jessica Lin,Open,2023-10-18,,0.0,Slipped on wet floor in supermarket. Sprained ankle and bruised tailbone.
+C-5091,L-1091,Car Accident,Jessica Lin,Settled,2023-07-25,2024-08-01,142079.44,"Client hit by truck at intersection, fractured femur, surgery required, expected long recovery."
+C-5092,L-1092,Slip & Fall,Mike Torres,Settled,2022-08-13,2023-01-14,292473.3,Rear-ended at stoplight. Whiplash and mild concussion. Physical therapy ongoing.
+C-5093,L-1093,Slip & Fall,David Walsh,Dropped,2022-11-29,,0.0,"Misdiagnosed fracture by ER doctor, led to permanent nerve damage."
+C-5094,L-1094,Car Accident,Mike Torres,Settled,2022-02-27,2023-02-03,59625.63,"Misdiagnosed fracture by ER doctor, led to permanent nerve damage."
+C-5095,L-1095,Car Accident,David Walsh,Dropped,2022-08-23,,0.0,Dog bite incident. Severe lacerations on right arm. Requires reconstructive surgery.
+C-5096,L-1096,Medical Malpractice,David Walsh,Settled,2022-02-02,2022-05-09,264717.94,"Misdiagnosed fracture by ER doctor, led to permanent nerve damage."
+C-5097,L-1097,Slip & Fall,Mike Torres,Dropped,2022-11-20,,0.0,T-boned at intersection. Multiple broken ribs and internal bleeding.
+C-5098,L-1098,Slip & Fall,David Walsh,Open,2023-02-15,,0.0,"Client hit by truck at intersection, fractured femur, surgery required, expected long recovery."
+C-5099,L-1099,Medical Malpractice,Mike Torres,Settled,2022-10-02,2023-08-28,223240.68,"Client hit by truck at intersection, fractured femur, surgery required, expected long recovery."

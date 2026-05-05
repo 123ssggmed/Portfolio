@@ -1,0 +1,280 @@
+## TL;DR
+
+La ruta con mayor probabilidad de generar **USD 1,000 en menos de 24 horas y sin inversión** no es un SaaS, ni un curso, ni un ebook. Es un **service MVP productizado**, cobrado hoy mismo, usando tu credibilidad, tu perfil híbrido y un canal de pago sin fricción. Para cobrar rápido puedes usar **Contra invoicing**, donde el cliente no necesita abrir cuenta para pagar, **Upwork Direct Contracts** con hitos y soporte de disputa, o **Stripe Payment Links** si ya tienes cuenta activa. ([contra.com][1])
+
+## Diagnóstico brutal
+
+El cuello de botella no es producto. Es **distribución + confianza + velocidad de cobro**.
+
+En 24 horas, un MVP de software orgánico casi siempre falla por tres razones:
+
+1. No hay audiencia caliente.
+2. No hay prueba social suficiente.
+3. No hay tiempo para iterar conversión.
+
+Por eso el activo principal eres tú. Tu mezcla de **derecho, regulación fintech, compliance y estrategia de IA** permite vender una oferta que suena cara porque reduce riesgo y acelera decisiones. Además, el timing ayuda. La presión por gobernanza de IA es real. La **AI Act** de la UE entró en vigor el **1 de agosto de 2024**, varias obligaciones arrancaron desde **2 de febrero de 2025**, y la aplicación plena llega el **2 de agosto de 2026**. NIST además mantiene su **AI RMF** como marco voluntario de referencia. ([European Commission][2])
+
+## La apuesta correcta
+
+### MVP a lanzar hoy
+
+**AI Risk & Revenue Sprint para firmas y startups reguladas**
+
+### Qué vendes
+
+Una intervención rápida de 24 horas para empresas que ya están usando IA, o quieren usarla, pero no tienen orden, policy, mapa de riesgo ni narrativa ejecutiva.
+
+### Oferta exacta
+
+**Entregable en 24 horas**
+
+* Diagnóstico express de uso de IA y exposición regulatoria
+* Mapa de 10 riesgos y 10 oportunidades
+* Matriz priorizada de casos de uso
+* Mini policy pack de uso interno
+* Memo ejecutivo de 2 a 4 páginas para founder, gerente o socio
+* 1 sesión de cierre de 30 minutos
+
+### Precio
+
+* **Opción A**: 2 cupos a **USD 500** cada uno
+* **Opción B**: 1 cupo premium a **USD 1,000**
+
+### Por qué este pricing funciona
+
+Porque en 24 horas no debes maximizar volumen. Debes maximizar **cash collected**. Dos ventas a USD 500 son mucho más probables que diez ventas a USD 100.
+
+## ICP prioritario
+
+No le vendas a todo el mundo. Vende a quien ya tiene dolor latente y capacidad de pagar hoy.
+
+### Prioridad 1
+
+* Fundadores fintech
+* SaaS B2B con clientes enterprise
+* Firmas legales boutique
+* Consultoras pequeñas
+* CFOs o COOs de empresas de servicios profesionales
+
+### Prioridad 2
+
+* Operadores que ya usan ChatGPT, Claude o agentes internos sin policy
+* Equipos comerciales que quieren meter IA al flujo y no saben cómo hacerlo sin romper compliance
+
+## Propuesta de valor
+
+No vendas “consultoría”. Vende una decisión ejecutiva.
+
+### Posicionamiento
+
+**“En 24 horas te entrego un mapa claro de cómo usar IA sin improvisar, qué frenar, qué acelerar y qué dejar documentado para no exponerte innecesariamente.”**
+
+Eso mezcla tres cosas que pagan:
+
+* ahorro de tiempo
+* reducción de riesgo
+* claridad para ejecutar
+
+## Activo mínimo para lanzar en 60 minutos
+
+No página web. No branding complejo. No deck de 20 slides.
+
+Solo necesitas 3 piezas:
+
+### 1. One pager en Google Doc o Notion
+
+Texto sugerido:
+
+**AI Risk & Revenue Sprint**
+En 24 horas identifico cómo está usando tu equipo IA, dónde estás expuesto, qué procesos vale la pena automatizar y qué lineamientos mínimos debes dejar definidos.
+Ideal para fintechs, firmas legales, consultoras y empresas de servicios que quieren capturar eficiencia sin abrir flancos operativos o reputacionales.
+**Incluye:** diagnóstico express, matriz de riesgos y oportunidades, policy starter pack y memo ejecutivo.
+**Precio lanzamiento hoy:** USD 500 por cupo. Solo 2 cupos.
+
+### 2. Mecanismo de cobro
+
+* **Contra** sirve para enviar invoice a cualquier cliente y el cliente no necesita registrarse. ([contra.com][1])
+* **Upwork Direct Contracts** sirve para manejar hitos y pagos con más estructura. ([Upwork][3])
+* **Stripe Payment Links** sirve para cobrar sin web y sin código, si ya lo tienes disponible. ([Stripe][4])
+
+### 3. Documento muestra
+
+Un PDF de 2 páginas con:
+
+* un mapa simple de riesgos de IA
+* una matriz de quick wins
+* una policy mini de ejemplo
+
+Ese sample reduce ansiedad de compra.
+
+## Plan operativo de 24 horas
+
+### Tramo 1. Construcción. 0 a 2 horas
+
+1. Crear one pager.
+2. Crear invoice o payment link.
+3. Crear sample PDF.
+4. Definir lista de 60 contactos.
+
+### Tramo 2. Venta directa. 2 a 8 horas
+
+Atacas por capas.
+
+**Capa 1. Warm network**
+
+* ex colegas
+* founders conocidos
+* abogados
+* profesores con contactos corporativos
+* amigos con cargos de decisión
+* contactos LinkedIn que ya te respondieron antes
+
+**Capa 2. Semi warm**
+
+* personas que han reaccionado a tus posts
+* ex clientes indirectos
+* conexiones de segundo grado con señal de necesidad
+
+### Tramo 3. Cierre. 8 a 14 horas
+
+* llamada de 15 minutos
+* no discovery larga
+* cierras sobre problema concreto
+* cobro inmediato
+* entregable al día siguiente
+
+### Tramo 4. Fulfillment y segunda venta. 14 a 24 horas
+
+* entregar el sprint al primer cliente
+* usar la venta cerrada como prueba social privada
+* volver a empujar el segundo cupo
+
+## Secuencia de outreach
+
+### Script para WhatsApp a contacto cálido
+
+> Estoy abriendo hoy 2 cupos de un sprint express de 24 horas para empresas que ya están usando IA o quieren empezar a usarla con más orden.
+>
+> Entrego diagnóstico rápido, mapa de riesgos, quick wins y lineamientos mínimos para que el uso de IA no quede improvisado.
+>
+> Es especialmente útil para fintechs, firmas legales, consultoras y equipos comerciales.
+>
+> Precio de lanzamiento hoy: USD 500.
+>
+> Si conoces a alguien que necesite esto ya, se lo tomo esta misma semana.
+
+### Script para DM de LinkedIn
+
+> Estoy lanzando un servicio express de 24 horas para ordenar el uso de IA en equipos de negocio y reducir exposición operativa.
+>
+> Incluye diagnóstico, matriz de riesgos y oportunidades, policy starter pack y memo ejecutivo.
+>
+> Abrí 2 cupos hoy.
+>
+> Creo que puede ser relevante para empresas como la tuya por el punto medio entre eficiencia, compliance y ejecución.
+
+### Script para correo
+
+**Asunto:** Sprint express de IA para ordenar riesgos y quick wins
+
+> Hola,
+>
+> Hoy abrí 2 cupos para un sprint de 24 horas orientado a equipos que ya están usando IA o están por incorporarla sin una estructura mínima de control.
+>
+> Entrego un diagnóstico ejecutivo con mapa de riesgos, oportunidades priorizadas y lineamientos básicos de uso.
+>
+> Está pensado para fintechs, firmas legales, consultoras y empresas de servicios que necesitan avanzar sin improvisar.
+>
+> Precio de lanzamiento hoy: USD 500.
+>
+> Quedo atento para compartir el one pager.
+
+## Post de LinkedIn para generar demanda orgánica hoy
+
+> La mayoría de empresas pequeñas ya están usando IA.
+> Lo que no tienen es criterio para decidir tres cosas:
+>
+> 1. qué sí automatizar
+> 2. qué no tocar todavía
+> 3. qué lineamientos mínimos dejar por escrito
+>
+> Ese vacío genera dos pérdidas.
+> Riesgo innecesario y dinero que no se captura.
+>
+> Por eso abrí hoy 2 cupos de un sprint express de 24 horas para ordenar uso de IA, mapear riesgos y aterrizar quick wins ejecutables.
+>
+> Ideal para fintechs, firmas legales, consultoras y equipos de servicios.
+>
+> Lo estoy lanzando en formato early adopter.
+
+## Métrica objetivo
+
+No persigas vanity metrics.
+
+Tu tablero real es este:
+
+* 60 contactos tocados
+* 12 respuestas
+* 4 conversaciones útiles
+* 2 llamadas cortas
+* 1 o 2 cierres
+
+Con ticket de USD 500, la meta es 2 cierres.
+Con ticket de USD 1,000, la meta es 1 cierre.
+
+## Qué no hacer
+
+1. No construir software.
+2. No hacer logo, branding, dominio y automatizaciones.
+3. No vender “horas”.
+4. No abrir demasiados segmentos.
+5. No mandar mensajes genéricos.
+6. No ofrecer demasiados entregables.
+
+## Riesgos reales
+
+### Riesgo 1
+
+Tu mensaje suena abstracto.
+
+**Corrección**
+Habla de decisión, riesgo y dinero. No de innovación.
+
+### Riesgo 2
+
+Le hablas a gente fría.
+
+**Corrección**
+Warm network primero. La velocidad sale de confianza previa.
+
+### Riesgo 3
+
+Quieren reunión larga.
+
+**Corrección**
+No discovery. Solo validación rápida y cierre.
+
+### Riesgo 4
+
+Te piden descuento.
+
+**Corrección**
+Mantén dos cupos. Escasez real. No más.
+
+## Decisión final
+
+La mejor arquitectura para llegar a **USD 1,000 en 24 horas** es esta:
+
+1. **No lanzar software.**
+2. **Lanzar un service MVP productizado.**
+3. **Cobrar por adelantado hoy.**
+4. **Vender a red cálida y semicaliente.**
+5. **Usar tu perfil como mecanismo de confianza.**
+
+La tesis operativa es simple.
+En 24 horas, **tú eres el MVP**. El documento, el invoice y el mensaje solo empaquetan eso.
+
+[1]: https://contra.com/invoicing?utm_source=chatgpt.com "Free Invoicing & Billing Software for Freelancers"
+[2]: https://commission.europa.eu/news-and-media/news/ai-act-enters-force-2024-08-01_en?utm_source=chatgpt.com "AI Act enters into force - European Commission"
+[3]: https://www.upwork.com/direct-contracts?utm_source=chatgpt.com "A Free Service Agreement | Upwork Direct Contracts"
+[4]: https://stripe.com/payments/payment-links?utm_source=chatgpt.com "Stripe Payment Links | Simple Links to Accept Payments"
